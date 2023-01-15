@@ -1,2 +1,5 @@
 # Tradey-API-Project
-Online Rest API Project (v1)
+This is a Rest API Project developed for the Web Services course. It a version 1 of an online trading platform for video games called Tradey, the project is still on development for more advanced features and functunalities. It is developped using python language, flask, sqlalchemy, sqlite...
+Different technologies are used like VS Code, Insomnia, Git...
+The project is the idea of developping an online platform to facilitate trading used video games between gamers to prevent wastage and maintain sustainability.
+As said in the beginning, the project is a version 1 for further development.
