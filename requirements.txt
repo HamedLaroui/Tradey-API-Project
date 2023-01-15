@@ -1,0 +1,12 @@
+flask
+flask-smorest
+flask_marshmallow
+python-dotenv
+marshmallow
+SQLAlchemy
+Flask-SQLAlchemy
+passlib
+smtplib
+pytz
+flask-jwt-extended
+sqlalchemy-jsonfield
